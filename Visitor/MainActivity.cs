@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace Visitor
 {
-    [Activity(Label = "Visitor", MainLauncher = true, Icon = "@drawable/icon")]
+   // [Activity(Label = "Visitor", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
